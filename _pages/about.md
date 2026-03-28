@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2025</div><img src='images/RESTORE_DiT_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RESTORE-DiT: Reliable satellite image time series reconstruction by multimodal sequential diffusion transformer](https://www.sciencedirect.com/science/article/pii/S0034425725002767)
@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/CutMixCD_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CutMix-CD: Advancing Semi-Supervised Change Detection via Mixed Sample Consistency](https://ieeexplore.ieee.org/document/10810476)
@@ -54,7 +54,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2022</div><img src='images/MTCNet_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MTCNet: Multitask consistency network with single temporal supervision for semi-supervised building change detection](https://www.sciencedirect.com/science/article/pii/S1569843222002989)
@@ -67,7 +67,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2022</div><img src='images/DPCCNet_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DPCC-Net: Dual-perspective change contextual network for change detection in high-resolution remote sensing](https://www.sciencedirect.com/science/article/pii/S1569843222001376)
@@ -85,8 +85,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, Pursing PhD degree in PolyU (The Hong Kong Polytechnic University). 
+- *2020.09 - 2023.06*, Master's degree in WHU (Wuhan University), research on computer vision and remote sensing intelligent interpretation.
+- *2016.09 - 2020.06*, Bachelor’s degree in UESTC (University of Electronic Science and Technology of China), major in Spatial Information and Digital Technology. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
