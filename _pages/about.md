@@ -28,19 +28,57 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[RESTORE-DiT: Reliable satellite image time series reconstruction by multimodal sequential diffusion transformer](https://www.sciencedirect.com/science/article/pii/S0034425725002767)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Qidi Shu**, Xiaolin Zhu, Shuai Xu, Yan Wang, Denghong Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/SQD1/RESTORE-DiT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- RESTORE-DiT is a novel Diffusion-based framework for Satellite Image Time Series (SITS) reconstruction. Our work firstly promotes the sequence-level optical-SAR fusion through a diffusion framework. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CutMix-CD: Advancing Semi-Supervised Change Detection via Mixed Sample Consistency](https://ieeexplore.ieee.org/document/10810476)
+
+**Qidi Shu**, Xiaolin Zhu, Luoma Wan, Shuheng Zhao, Denghong Liu, Longkang Peng, Xiaobei Chen
+
+[**Code**](https://github.com/SQD1/CutMixCD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- To address the issue of high labeling costs in bi-temporal image change detection tasks, we propose a novel semi-supervised method CutMix-CD, which incorporates the pair-level change-aware CutMix augmentation into the consistency learning framework. Using 20% of the labeled data, the F1 score (89.4%) reached a level close to that of fully supervised learning (90.4%).
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MTCNet: Multitask consistency network with single temporal supervision for semi-supervised building change detection](https://www.sciencedirect.com/science/article/pii/S1569843222002989)
+
+**Qidi Shu**, Jun Pan, Zhuoer Zhang, Mi Wang
+
+[**Code**](https://github.com/SQD1/MTCNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Single-temporal labels serve as a low-cost alternative when change labels are limited! We present a new task called "Semi-supervised change detection with single temporal supervision". We propose a multitask consistency network (MTCNet), which fully takes the advantage of easily obtained single-temporal labels for bi-temporal change detection. With only 52 change labels, 52 single-temporal labels and unlabeled samples, our the method achieves competitive performance with supervised training on 520 change labels. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DPCC-Net: Dual-perspective change contextual network for change detection in high-resolution remote sensing](https://www.sciencedirect.com/science/article/pii/S1569843222001376)
+
+**Qidi Shu**, Jun Pan, Zhuoer Zhang, Mi Wang
+
+[**Code**](https://github.com/SQD1/DPCC-Net) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- DPCCNet emphasizes the process of extraction and optimization of change features by bi-temporal feature fusion and contextual modeling. The dual-perspective fusion (DPF) takes bi-temporal features as reference respectively to increase the sensitivity to change information. The change context module (CCM) incorporates abundant contexts to facilitate the integrity of change objects.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
