@@ -31,7 +31,9 @@ I am particularly interested in **bi-temporal** and **timeseries remote sensing*
 # 🔥 News
 - *2026.10*: &nbsp;🎉🎉 Our work [**RESTORE-DiT**](https://www.sciencedirect.com/science/article/pii/S0034425725002767) is marked as **highly cited paper** in web of science! 
 - *2026.09*: &nbsp;🎉🎉 One co-author work of **30-year China Settlement Footprint** mapping is accepted by Scientific Data! The dataset is available at [Link](https://zenodo.org/records/18276819).
-- *2026.02*: &nbsp;🎉🎉 I have ended my six-month visit from SNU [Ecological Sensing AI Lab](https://www.environment.snu.ac.kr). A really fruitful and happy journey! Thank you, Prof. Ryu! I will miss all of you guys.
+- *2026.02*: &nbsp;🎉🎉 I have ended my six-month visit from SNU [Ecological Sensing AI Lab](https://www.environment.snu.ac.kr). A fruitful and happy journey! Thank you, Prof. Ryu! I will miss all of you guys.
+- *2025.08*: &nbsp;🎉🎉 Attended IGARSS 2025 in Brisbane, Australia! Shake Hands with a Kangaroo 🦘
+- *2025.06*: &nbsp;🎉🎉 Our work **RESTORE-DiT** has been accepted by Remote Sensing of Environment. We propose a diffusion model-based optical-SAR fusion framework for Sentinel-2 time series image reconstruction.
 
 # 📝 Publications 
 
@@ -56,7 +58,7 @@ I am particularly interested in **bi-temporal** and **timeseries remote sensing*
 **Qidi Shu**, Xiaolin Zhu, Luoma Wan, Shuheng Zhao, Denghong Liu, Longkang Peng, Xiaobei Chen
 
 [**Code**](https://github.com/SQD1/CutMixCD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- To address the issue of high labeling costs in bi-temporal image change detection tasks, we propose a novel semi-supervised method CutMix-CD, which incorporates the **pair-level change-aware CutMix** augmentation into the **consistency learning** framework. Using 20% of the labeled data, the F1 score (89.4%) reached a level close to that of fully supervised learning (90.4%).
+- To address the issue of high labeling costs in bi-temporal image change detection tasks, we propose a novel semi-supervised method CutMix-CD, which incorporates the **pair-level change-aware CutMix** augmentation into the **consistency learning** framework.
 </div>
 </div>
 
@@ -87,16 +89,19 @@ I am particularly interested in **bi-temporal** and **timeseries remote sensing*
 </div>
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Awards
+- PolyU Research Excellence Scholarship, candidate of HKPFS, 2023.
+- The 2nd Prize (Rank: 2/181 teams) in the International High Resolution Remote Sensing Image Interpretation Competition. 2023.
+- Outstanding graduate of Wuhan University (Master), 2023.
+- Academic scholarship (First class), Wuhan University, both in 2021 and 2022.
+- Outstanding graduate of UESTC (Bachelor), 2020.
+- Outstanding Student Scholarship, UESTC, both in 2017 and 2018.
 
 # 📖 Educations
-- *2025.09 - 2026.02*, Visiting PhD in SNU [Ecological Sensing AI Lab](https://www.environment.snu.ac.kr).
-- *2023.09 - now*, Pursing PhD degree in PolyU (The Hong Kong Polytechnic University), [PRIDE lab](https://xzhu-lab.github.io/post/home/).
-- *2020.09 - 2023.06*, Master's degree in WHU (Wuhan University), research on computer vision and remote sensing intelligent interpretation.
-- *2016.09 - 2020.06*, Bachelor’s degree in UESTC (University of Electronic Science and Technology of China), major in Spatial Information and Digital Technology. 
+- *2025.09 - 2026.02*, Visiting PhD in SNU (Seoul National University) [Ecological Sensing AI Lab](https://www.environment.snu.ac.kr), supervised by [Prof. Youngryel Ryu](https://scholar.google.com/citations?user=4p5ooX4AAAAJ&hl=zh-CN&oi=ao).
+- *2023.09 - now*, Pursing PhD degree in PolyU (The Hong Kong Polytechnic University), [PRIDE lab](https://xzhu-lab.github.io/post/home/), supervised by [Prof. Xiaolin Zhu](https://scholar.google.com/citations?user=cY8cdPIAAAAJ&hl=zh-CN&oi=ao).
+- *2020.09 - 2023.06*, Master's degree in WHU (Wuhan University), research on computer vision and remote sensing intelligent interpretation, supervised by [Prof. Jun Pan](http://rspip.whu.edu.cn) and [Prof. Mi Wang](https://rsone.whu.edu.cn).
+- *2016.09 - 2020.06*, Bachelor’s degree in UESTC (University of Electronic Science and Technology of China), major in Spatial Information and Digital Technology, supervised by [Prof. Xingwen Quan](https://scholar.google.com/citations?user=yNrp1P4AAAAJ&hl=zh-CN&oi=ao) and [Prof. Binbin He](https://scholar.google.com/citations?user=X4PKdS0AAAAJ&hl=zh-CN&oi=ao).
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Review experience
+- Reviewer for remote sensing and image processing journals, including Remote Sensing of Environment, IEEE Transactions on Geoscience and Remote Sensing, International Journal of Applied Earth Observation and Geoinformation, Journal of Remote Sensing, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, IEEE Geoscience and Remote Sensing Letters, Scientific Report, Knowledge-based Systems, Neurocomputing, etc.
