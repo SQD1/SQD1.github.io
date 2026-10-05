@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am Qidi Shu, a PhD candidate from Hong Kong PolyU. 
+Hi there! I am Qidi Shu (舒奇迪), a PhD candidate from Hong Kong PolyU. 
 
 I am interested in **AI for a Dynamic Earth**, with a focus on **understanding**, **reconstructing**, and **reasoning** about Earth surface changes from remote sensing images across time.
 
@@ -25,15 +25,15 @@ My research spans remote sensing image interpretation, multimodal data fusion, v
 
 I am particularly interested in **bi-temporal** and **timeseries remote sensing**, with the broader goal of moving beyond static perception toward modeling and understanding a changing Earth.
 
-（_I am currently seeking opportunities in both academia and industry. Please feel free to reach out for potential collaborations or opportunities 🤝🤝_）
+（_I am currently seeking opportunities in both academia and industry. Please feel free to reach out for potential collaborations or opportunities 🤝🤝_ [Email](qidi17.shu@connect.polyu.hk)）
 
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉🎉 Our work [**RESTORE-DiT**](https://www.sciencedirect.com/science/article/pii/S0034425725002767) is marked as **highly cited paper** in web of science! 
-- *2026.09*: &nbsp;🎉🎉 One co-author work of **30-year China Settlement Footprint** mapping is accepted by Scientific Data! The dataset is available at [Link](https://zenodo.org/records/18276819).
-- *2026.02*: &nbsp;🎉🎉 I have ended my six-month visit from SNU [Ecological Sensing AI Lab](https://www.environment.snu.ac.kr). A fruitful and happy journey! Thank you, Prof. Ryu! I will miss all of you guys.
-- *2025.08*: &nbsp;🎉🎉 Attended IGARSS 2025 in Brisbane, Australia! Shake Hands with a Kangaroo 🦘
-- *2025.06*: &nbsp;🎉🎉 Our work **RESTORE-DiT** has been accepted by Remote Sensing of Environment. We propose a diffusion model-based optical-SAR fusion framework for Sentinel-2 time series image reconstruction.
+- *2026.10*: &nbsp; Our work [**RESTORE-DiT**](https://www.sciencedirect.com/science/article/pii/S0034425725002767) is marked as **highly cited paper** in web of science! 
+- *2026.09*: &nbsp; One co-author work of **30-year China Settlement Footprint** mapping is accepted by Scientific Data! The dataset is available at [Link](https://zenodo.org/records/18276819).
+- *2026.02*: &nbsp; I have completed my six-month visit at SNU [Ecological Sensing AI Lab](https://www.environment.snu.ac.kr). A fruitful and happy journey! Thank you, Prof. Ryu! I will miss all of you guys.
+- *2025.08*: &nbsp; Attended IGARSS 2025 in Brisbane, Australia! Shake Hands with a Kangaroo 🦘
+- *2025.06*: &nbsp; Our work **RESTORE-DiT** has been accepted by Remote Sensing of Environment. We propose a diffusion model-based optical-SAR fusion framework for Sentinel-2 time series image reconstruction.
 
 # 📝 Publications 
 
