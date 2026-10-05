@@ -21,7 +21,7 @@ Hi there! I am Qidi Shu, a PhD candidate from Hong Kong PolyU.
 
 I am interested in **AI for a Dynamic Earth**, with a focus on **understanding**, **reconstructing**, and **reasoning** about Earth surface changes from remote sensing images across time.
 
-My research broadly spans remote sensing image interpretation, multimodal data fusion, and remote sensing foundation models, and lies at the intersection of **discriminative understanding** and **generative modeling**.
+My research spans remote sensing image interpretation, multimodal data fusion, vision foundation models, and lies at the intersection of **discriminative understanding** and **generative modeling**.
 
 I am particularly interested in **bi-temporal** and **timeseries remote sensing**, with the broader goal of moving beyond static perception toward modeling and understanding a changing Earth.
 
@@ -29,8 +29,9 @@ I am particularly interested in **bi-temporal** and **timeseries remote sensing*
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.10*: &nbsp;🎉🎉 Our work [**RESTORE-DiT**](https://www.sciencedirect.com/science/article/pii/S0034425725002767) is marked as **highly cited paper** in web of science! 
+- *2026.09*: &nbsp;🎉🎉 One co-author work of **30-year China Settlement Footprint** mapping is accepted by Scientific Data! The dataset is available at [Link](https://zenodo.org/records/18276819).
+- *2026.02*: &nbsp;🎉🎉 I have ended my six-month visit from SNU [Ecological Sensing AI Lab](https://www.environment.snu.ac.kr). A really fruitful and happy journey! Thank you, Prof. Ryu! I will miss all of you guys.
 
 # 📝 Publications 
 
@@ -55,7 +56,7 @@ I am particularly interested in **bi-temporal** and **timeseries remote sensing*
 **Qidi Shu**, Xiaolin Zhu, Luoma Wan, Shuheng Zhao, Denghong Liu, Longkang Peng, Xiaobei Chen
 
 [**Code**](https://github.com/SQD1/CutMixCD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- To address the issue of high labeling costs in bi-temporal image change detection tasks, we propose a novel semi-supervised method CutMix-CD, which incorporates the pair-level change-aware CutMix augmentation into the consistency learning framework. Using 20% of the labeled data, the F1 score (89.4%) reached a level close to that of fully supervised learning (90.4%).
+- To address the issue of high labeling costs in bi-temporal image change detection tasks, we propose a novel semi-supervised method CutMix-CD, which incorporates the **pair-level change-aware CutMix** augmentation into the **consistency learning** framework. Using 20% of the labeled data, the F1 score (89.4%) reached a level close to that of fully supervised learning (90.4%).
 </div>
 </div>
 
@@ -68,7 +69,7 @@ I am particularly interested in **bi-temporal** and **timeseries remote sensing*
 **Qidi Shu**, Jun Pan, Zhuoer Zhang, Mi Wang
 
 [**Code**](https://github.com/SQD1/MTCNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Single-temporal labels serve as a low-cost alternative when change labels are limited! We present a new task called "Semi-supervised change detection with single temporal supervision". We propose a multitask consistency network (MTCNet), which fully takes the advantage of easily obtained single-temporal labels for bi-temporal change detection. With only 52 change labels, 52 single-temporal labels and unlabeled samples, our the method achieves competitive performance with supervised training on 520 change labels. 
+- Single-temporal labels serve as a **low-cost alternative** when change labels are limited! We present a new task called "Semi-supervised change detection with single temporal supervision". We propose a multitask consistency network (MTCNet), which fully takes the advantage of easily obtained single-temporal labels for bi-temporal change detection.
 </div>
 </div>
 
@@ -81,7 +82,7 @@ I am particularly interested in **bi-temporal** and **timeseries remote sensing*
 **Qidi Shu**, Jun Pan, Zhuoer Zhang, Mi Wang
 
 [**Code**](https://github.com/SQD1/DPCC-Net) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- DPCCNet emphasizes the process of extraction and optimization of change features by bi-temporal feature fusion and contextual modeling. The dual-perspective fusion (DPF) takes bi-temporal features as reference respectively to increase the sensitivity to change information. The change context module (CCM) incorporates abundant contexts to facilitate the integrity of change objects.
+- DPCCNet emphasizes the process of extraction and optimization of change features by **bi-temporal feature fusion** and **contextual modeling**. The dual-perspective fusion (DPF) takes bi-temporal features as reference respectively to increase the sensitivity to change information. The change context module (CCM) incorporates abundant contexts to facilitate the integrity of change objects.
 </div>
 </div>
 
@@ -91,13 +92,11 @@ I am particularly interested in **bi-temporal** and **timeseries remote sensing*
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2023.09 - now*, Pursing PhD degree in PolyU (The Hong Kong Polytechnic University). 
+- *2025.09 - 2026.02*, Visiting PhD in SNU [Ecological Sensing AI Lab](https://www.environment.snu.ac.kr).
+- *2023.09 - now*, Pursing PhD degree in PolyU (The Hong Kong Polytechnic University), [PRIDE lab](https://xzhu-lab.github.io/post/home/).
 - *2020.09 - 2023.06*, Master's degree in WHU (Wuhan University), research on computer vision and remote sensing intelligent interpretation.
 - *2016.09 - 2020.06*, Bachelor’s degree in UESTC (University of Electronic Science and Technology of China), major in Spatial Information and Digital Technology. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
